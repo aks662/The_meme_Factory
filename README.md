@@ -1,5 +1,5 @@
 THE MEME FACTORY 
-website preview: ![Project Demo](./assets/screenshot.png)
+website preview: ![My Website](./assests_img/image.png)
 🖼️ 
 The Meme Factory is a dynamic web application designed for meme enthusiasts to discover, explore, and preview popular meme templates. Users can browse a vast library of templates, filter by categories, and visualize their own captions in real-time.
 
