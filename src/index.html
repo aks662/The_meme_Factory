@@ -12,6 +12,21 @@
 
   <body>
     <div id="root">THE MEME FACTORY</div>
+    <div class="controls-container">
+      <input type="text" id="search-input" placeholder="Search memes...">
+      <select id="filter-select">
+          <option value="all">All Box Counts</option>
+          <option value="2">2 Boxes</option>
+          <option value="3">3 Boxes</option>
+          <option value="more">More than 3 Boxes</option>
+      </select>
+      <select id="sort-select">
+          <option value="default">Default Order</option>
+          <option value="asc">Alphabetical (A-Z)</option>
+          <option value="desc">Alphabetical (Z-A)</option>
+      </select>
+      <button id="theme-toggle">Toggle Dark Mode</button>
+    </div>
     <div id="meme-container" class="grid-layout"></div>
   </body>
 </html>
